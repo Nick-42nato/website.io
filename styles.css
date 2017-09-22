@@ -3,10 +3,10 @@ h1 {
 }
 
 img {
-  align: center;
+  margin: center;
 }
 
 body {
   margin: 0px;
-  border: 10px solid #005921;
+  border: 25px solid #005921;
 }
