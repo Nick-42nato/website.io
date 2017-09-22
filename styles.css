@@ -5,3 +5,8 @@ h1 {
 img {
   align: center;
 }
+
+body {
+  margin: 0px;
+  border: 10px solid #005921;
+}
