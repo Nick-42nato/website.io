@@ -4,11 +4,15 @@ h1 {
 }
 
 img {
-  margin: center;
+  display: inline-block;
 }
 
 body {
   margin: 0px;
   border: 25px solid #005921;
   background-color: #212629;
+}
+
+p {
+  color: #0B8D80;
 }
