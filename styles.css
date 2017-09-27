@@ -16,6 +16,7 @@ body {
 
 p {
   color: #FFFFFF;
+  display: inline-table;
 }
 
 html { 
