@@ -10,12 +10,18 @@ img {
 body {
   margin: 0px;
   border: 25px solid #005921;
-  background-image: url("https://images2.sw-cdn.net/product/picture/710x528_214530_296902_1452791952.jpg");
   height: 100%;
   width: 95%;
-  background-repeat: no-repeat;
 }
 
 p {
   color: #FFFFFF;
+}
+
+html { 
+  background: url("https://images2.sw-cdn.net/product/picture/710x528_214530_296902_1452791952.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
