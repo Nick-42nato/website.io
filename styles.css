@@ -30,10 +30,12 @@ html {
 
 @media screen and (max-width: 1080px) {
   img {
-      content:url(http://cdn.pcwallart.com/images/chess-board-wallpaper-3.jpg);
+      content:url(https://user-images.githubusercontent.com/25018733/30939058-0f47944c-a391-11e7-9bf3-e09ff4656fd8.png);
+	height: 200px;
+	width: 25%;
   }
 	body {
-	    background-image: url("");
+	    background-image: url("https://lh3.googleusercontent.com/oEqPoxgpRLTH9Qylz7Oo_52p5Puosj0bGZKd12mM53grgKWPrgJZEcuEPqQqDl_d6oa8cFDx9Q=w640-h400-e365");
 	}
 }
 
